@@ -1,0 +1,1 @@
+Simply run the file called 'App.py' and you're set!
