@@ -1,6 +1,7 @@
 # Cabinet
-<h3>A customizable file sorter with GUI I made in Python with Tkinter
-I started this project over a year ago and never finishd it.</h3>
+<h3>A customizable file sorter with GUI I made in Python with Tkinter</h3>
+
+I started this project over a year ago and never finishd it.
 
 Until now. 
 
