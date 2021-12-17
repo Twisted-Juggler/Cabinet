@@ -9,7 +9,7 @@ Until now.
 
 This program, dubbed 'Cabinet', takes two path inputs, one for the folder
 you want sorted, one for the folder you want it sorted to. Once you give
-location for it, you can begin sorting.
+a location for it, you can begin sorting.
 
 That's it.
 It's that easy.
