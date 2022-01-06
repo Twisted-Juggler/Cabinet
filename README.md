@@ -8,7 +8,7 @@
 <h4> You must have python installed on your computer for this program
   to work. </h4>
   
-<br>
+<hr>
 
 I started this project over a year ago and never finishd it.
 
