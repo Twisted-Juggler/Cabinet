@@ -3,6 +3,10 @@
 <h4> Made with Python with Tkinter </h4>
 <br>
 
+<h2> Disclaimer </h2>
+<h4> You must have python installed on your computer for this program
+  to work. </h4>
+
 I started this project over a year ago and never finishd it.
 
 Until now. 
