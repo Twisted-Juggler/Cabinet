@@ -1,11 +1,14 @@
 # Cabinet
 <h2>A customizable file sorter with GUI</h2>
 <h4> Made with Python with Tkinter </h4>
-<br>
+
+<hr>
 
 <h2> Disclaimer </h2>
 <h4> You must have python installed on your computer for this program
   to work. </h4>
+  
+<br>
 
 I started this project over a year ago and never finishd it.
 
