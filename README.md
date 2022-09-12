@@ -16,7 +16,7 @@ Until now.
 
 *cinematic music starts playing*
 
-This program, dubbed 'Cabinet', takes two path inputs, one for the folder
+This program, dubbed 'Cabinet', takes two path inputs. One for the folder
 you want sorted, one for the folder you want it sorted to. Once you give
 a location for it, you can begin sorting.
 
