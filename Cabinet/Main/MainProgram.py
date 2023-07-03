@@ -2,6 +2,8 @@ import os
 import shutil
 
 # -- File types supported -- #
+# The file types system is poorly made and I hope to
+# make changes to it in the future to smooth it out.
 
 image = ['.jpeg', '.jpg', '.png', '.jfif']
 adobe = ['.ai', '.ps']
