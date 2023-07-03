@@ -20,9 +20,11 @@ This program, dubbed 'Cabinet', takes two path inputs. One for the folder
 you want sorted, one for the folder you want it sorted to. Once you give
 a location for it, you can begin sorting.
 <br>
+
 That's it.
 It's that easy.
 <br>
+
 But wait! There's more.
 Now that you have given paths, it saves them in a text file. Don't worry,
 you don't have to do anything with the text file. So what is it for? Why, thank
