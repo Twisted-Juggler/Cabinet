@@ -1,6 +1,6 @@
 # Cabinet
 <h2>A customizable file sorter with GUI</h2>
-<h4> Made with Python with Tkinter </h4>
+<h4> Made with Python and Tkinter </h4>
 
 <hr>
 
